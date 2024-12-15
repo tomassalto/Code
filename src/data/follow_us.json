@@ -1,0 +1,10 @@
+{
+  "follow_us": [
+    {
+      "image": "/images/follow_us/image_1.png"
+    },
+    { "image": "/images/follow_us/image_2.png" },
+    { "image": "/images/follow_us/image_3.png" },
+    { "image": "/images/follow_us/image_4.png" }
+  ]
+}

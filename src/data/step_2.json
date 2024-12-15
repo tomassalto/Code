@@ -1,0 +1,12 @@
+{
+  "accordionItems": [
+    {
+      "title": "PUNTO DE RETIRO",
+      "content": "<div class='flex flex-col gap-[15px]'><div class='flex flex-col gap-[10px] items-center w-full'><div class='flex gap-[10px] w-full items-start'><input type='checkbox' id='terms' class='border-[1px] mt-[3px] bg-[#fff] rounded-[4px] border-[#E1E5EF] size-5 accent-violet' /><label class='text-[#C1C1C1] text-[14px]' htmlFor='terms'>Lorem ipsum dolor sit amet consectetur. Urna nec pellentesque diam et in diam eu netus nec. Convallis non velit nulla quis sit vulputate convallis amet dignissim.</label></div></div><div class='flex flex-col gap-[10px] items-center w-full'><div class='flex gap-[10px] items-start w-full'><input type='checkbox' id='terms_2' class='border-[1px] bg-[#fff] mt-[3px] rounded-[4px] border-[#E1E5EF] size-5 accent-violet' /><label class='text-[#C1C1C1] text-[14px]' htmlFor='terms_2'>Lorem ipsum dolor sit amet consectetur. Urna nec pellentesque diam et in diam eu netus nec. Convallis non velit nulla quis sit vulputate convallis amet dignissim.</label></div></div></div>"
+    },
+    {
+      "title": "ENVÍO",
+      "content": "<div class='flex flex-col gap-[15px]'><div class='flex gap-y-[7px] gap-x-[30px]'><div class='flex gap-[7px]'><input type='radio' name='option' value='oca' class='custom-radio' /><div class='flex flex-col justify-start gap-[7px]'><label class='text-dark_gray font-poppins text-[14px]'>OCA - Envío a domicilio</label><p class='text-[#999] font-poppins text-[14px]'>Llega a partir del 30/8</p></div></div><p class='text-dark_gray font-poppins text-[14px] font-medium'>$9000</p></div><div class='flex gap-y-[7px] gap-x-[30px]'><div class='flex gap-[7px]'><input type='radio' name='option' value='andreani' class='custom-radio' /><div class='flex flex-col justify-start gap-[7px]'><p class='text-dark_gray font-poppins text-[14px]'>Andreani - Envío a domicilio</p><p class='text-[#999] font-poppins text-[14px]'>Llega a partir del 30/8</p></div></div><p class='text-dark_gray font-poppins text-[14px] font-medium'>$9000</p></div><div class='flex gap-y-[7px] gap-x-[30px]'><div class='flex gap-[7px]'><input type='radio' name='option' value='correo' class='custom-radio' /><div class='flex flex-col justify-start gap-[7px]'><p class='text-dark_gray font-poppins text-[14px]'>Correo Argentino - Envío a domicilio</p><p class='text-[#999] font-poppins text-[14px]'>Llega a partir del 30/8</p></div></div><p class='text-dark_gray font-poppins text-[14px] font-medium'>$9000</p></div></div>"
+    }
+  ]
+}

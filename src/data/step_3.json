@@ -1,0 +1,16 @@
+{
+  "paymentOptions": [
+    {
+      "value": "rapipago",
+      "label": "Rapipago"
+    },
+    {
+      "value": "pago_facil",
+      "label": "Pago Facil"
+    },
+    {
+      "value": "paga_cuando_retires",
+      "label": "Paga cuando retiras"
+    }
+  ]
+}

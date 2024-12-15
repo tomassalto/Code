@@ -1,0 +1,19 @@
+{
+  "unique_touch": [
+    {
+      "icon": "/icons/unique_touch/truck.svg",
+      "title": "ENVÍOS A TODO EL PAÍS",
+      "description": "Se envían en rollos empaquetados"
+    },
+    {
+      "icon": "/icons/unique_touch/arrow.svg",
+      "title": "SERVICIO POSTVENTA",
+      "description": "Te asesoramos en todo lo que necesites"
+    },
+    {
+      "icon": "/icons/unique_touch/lock.svg",
+      "title": "COMPRA CON SEGURIDAD",
+      "description": "Pagos 100% Seguros"
+    }
+  ]
+}

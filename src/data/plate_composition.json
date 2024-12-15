@@ -1,0 +1,44 @@
+{
+  "composition_items": [
+    {
+      "icon": "/icons/plate_composition/check.svg",
+      "text": "USO INTERIOR APTO PARA PAREDES Y TECHOS"
+    },
+    {
+      "icon": "/icons/plate_composition/check.svg",
+      "text": "100% IMPERMEABLES"
+    },
+    {
+      "icon": "/icons/plate_composition/check.svg",
+      "text": "ANTIHONGOS"
+    },
+    {
+      "icon": "/icons/plate_composition/check.svg",
+      "text": "EXCELENTE CALIDAD"
+    },
+    {
+      "icon": "/icons/plate_composition/check.svg",
+      "text": "PROTECCIÓN UV"
+    },
+    {
+      "icon": "/icons/plate_composition/check.svg",
+      "text": "MÍNIMA MANO DE OBRA"
+    },
+    {
+      "icon": "/icons/plate_composition/check.svg",
+      "text": "ECONÓMICO Y DURADERO"
+    },
+    {
+      "icon": "/icons/plate_composition/check.svg",
+      "text": "IGNIFUGO"
+    },
+    {
+      "icon": "/icons/plate_composition/check.svg",
+      "text": "ACABADO BRILLANTE Y REALISTA"
+    },
+    {
+      "icon": "/icons/plate_composition/check.svg",
+      "text": "NO APTO PARA EXTERIORES NI MESADAS"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "our_clients": [
+    {
+      "star": 5,
+      "description": "Quedan hermosas. Fácil de colocar.",
+      "name": "Client 1"
+    },
+    {
+      "star": 5,
+      "description": "Producto tal cual se muestra en las fotos y de buena calidad.",
+      "name": "Client 2"
+    },
+    {
+      "star": 5,
+      "description": "Muy práctico.",
+      "name": "Client 3"
+    },
+    {
+      "star": 5,
+      "description": "100% recomendado.",
+      "name": "Client 4"
+    },
+    {
+      "star": 5,
+      "description": "Quedan hermosas. Fácil de colocar.",
+      "name": "Client 1"
+    },
+    {
+      "star": 5,
+      "description": "Producto tal cual se muestra en las fotos y de buena calidad.",
+      "name": "Client 2"
+    },
+    {
+      "star": 5,
+      "description": "Muy práctico.",
+      "name": "Client 3"
+    },
+    {
+      "star": 5,
+      "description": "100% recomendado.",
+      "name": "Client 4"
+    }
+  ]
+}
