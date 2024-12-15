@@ -1,9 +1,9 @@
 import React from "react";
-import ProductDetail from "../components/ProductDetail";
-import Form from "../components/Form";
-import PlateComposition from "../components/PlateComposition";
-import FollowUs from "../components/FollowUs";
-import productData from "../data/product.json";
+import ProductDetail from "../../../components/ProductDetail";
+import Form from "../../../components/Form";
+import PlateComposition from "../../../components/PlateComposition";
+import FollowUs from "../../../components/FollowUs";
+import productData from "../../../data/product";
 
 const getProductById = (id) => {
   return (
